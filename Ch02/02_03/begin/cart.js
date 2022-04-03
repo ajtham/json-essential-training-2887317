@@ -22,7 +22,7 @@ let cart = [
 ];
 
 // Enter code to stringify the `cart` variable here:
-const cartJson = JSON.stringify(cart);
+const cartJson =JSON.stringify (cart);
 
 let single = {
   productId: "530",
